@@ -1,5 +1,5 @@
 # azgaresncf[^1]
-[PGP key](https://github.com/azgaresncf.gpg)
+[GPG key](https://github.com/azgaresncf.gpg)
 
 Hi! I hope that everyone are doing well. 😉
 
